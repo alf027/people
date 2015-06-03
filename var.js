@@ -27,5 +27,8 @@ sumAgesAll:function(people) {
         } return prev
     });
     return results
-}
+},
+
+
+
 };
